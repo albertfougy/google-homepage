@@ -1,1 +1,1 @@
-# A re-build the google.com homepage
+# A re-build of the google.com homepage
