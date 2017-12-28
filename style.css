@@ -19,3 +19,39 @@ img {
   height: 92px;
   padding-top: 109px;
 }
+
+input {
+    border: 1px solid #d9d9d9;
+    width: 484px;
+    height: 38px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.center-div {
+     margin: 0 0 25px 25px;
+     width: 100%; 
+    
+}
+
+#buttons {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+	width: 300px;
+}
+
+button {
+    height: 36px;
+    background-color: #f2f2f2;
+    border: none;
+    font-weight: bold;
+    color: #757575;
+    font: 13.33px;
+}
+
+button:hover {
+    border: 1px solid #d9d9d9;
+    color: #222;
+}
